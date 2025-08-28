@@ -14,12 +14,12 @@ The primary goal is to create a seamless bridge between raw data, the Hugging Fa
 
 ## Workflow Diagram
 
-The diagram below illustrates the two primary workflows of this pipeline.
+The diagram below illustrates the primary workflow of this pipeline.
 
 ```mermaid
 graph TD
     subgraph "Push Workflow (Automated via GitHub Actions)"
-        A[Local File Change <br/>(.csv, .py)] -- git push --> B{GitHub Workflow Triggered};
+        A["Local File Change <br/>(.csv, .py)"] -- git push --> B{GitHub Workflow Triggered};
         B --> C[Install Dependencies & Cache];
         C --> D[Run 'make push'];
         D --> E[Hugging Face Dataset];
