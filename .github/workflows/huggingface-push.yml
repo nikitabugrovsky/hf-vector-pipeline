@@ -1,0 +1,46 @@
+name: Push to Hugging Face Hub
+
+on:
+  push:
+    branches:
+      - main
+    paths:
+      - '**.csv'
+      - '**.py'
+  pull_request:
+    branches:
+      - main
+    paths:
+      - '**.csv'
+      - '**.py'
+
+jobs:
+  build-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: Cache pip dependencies
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-python-3.13-${{ hashFiles('**/requirements.txt') }}
+          restore-keys: |
+            ${{ runner.os }}-python-3.13-
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Push to Hugging Face
+        run: make push
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          EMBEDDING_MODEL_NAME: ${{ vars.EMBEDDING_MODEL_NAME }}
+          SOURCE_DATA_FILE: ${{ vars.SOURCE_DATA_FILE }}
+          TARGET_DATASET_REPO: ${{ vars.TARGET_DATASET_REPO }}

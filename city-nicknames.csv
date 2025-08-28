@@ -1,0 +1,739 @@
+City,Nickname,Country
+Aarhus,"The City of Smiles",Denmark
+Aberdeen,"The Granite City",United Kingdom
+Abuja,"The Center of Unity",Nigeria
+Acapulco,"Pearl of the Pacific",Mexico
+Accra,"The Star of the New Africa",Ghana
+Adana,"The City of Cotton",Turkey
+Addis Ababa,"The New Flower",Ethiopia
+Adelaide,"The City of Churches",Australia
+Agra,"The City of the Taj",India
+Ahmedabad,"The Manchester of India",India
+Aizuwakamatsu,"Samurai City",Japan
+Akron,"Rubber Capital of the World",USA
+Albuquerque,"The Duke City",USA
+Alexandria,"The Pearl of the Mediterranean",Egypt
+Algiers,"The White City",Algeria
+Allahabad,"The City of Prime Ministers",India
+Allentown,"The Cement City",USA
+Amarillo,"The Yellow Rose of Texas",USA
+Amman,"The White City",Jordan
+Amritsar,"The Golden City",India
+Amsterdam,"Venice of the North",Netherlands
+Anaheim,"The Big A",USA
+Anchorage,"The City of Lights and Flowers",USA
+Ankara,"The City of Contrasts",Turkey
+Ann Arbor,"A-Squared",USA
+Annapolis,"America's Sailing Capital",USA
+Antwerp,"The Diamond City",Belgium
+Arequipa,"The White City",Peru
+Asheville,"The Land of the Sky",USA
+Asmara,"The Little Rome",Eritrea
+Aspen,"America's Canary City",USA
+Astana (Nur-Sultan),"The Capital of the Steppe",Kazakhstan
+Asuncion,"Mother of Cities",Paraguay
+Athens,"The City of the Violet Crown",Greece
+Atlanta,"The Big Peach",USA
+Atlantic City,"America's Playground",USA
+Auckland,"The City of Sails",New Zealand
+Augusta,"The Garden City",USA
+Austin,"Live Music Capital of the World",USA
+Baghdad,"The City of Peace",Iraq
+Bakersfield,"California's Country Music Capital",USA
+Baku,"The City of Winds",Azerbaijan
+Baltimore,"Charm City",USA
+Bamako,"The City of Three Crocodiles",Mali
+Bandung,"The Paris of Java",Indonesia
+Bangalore,"The Garden City of India",India
+Bangkok,"The City of Angels",Thailand
+Bangui,"The Diamond City",Central African Republic
+Barcelona,"The City of Counts",Spain
+Bari,"The California of Italy",Italy
+Basel,"The City of Museums",Switzerland
+Baton Rouge,"The Red Stick",USA
+Battle Creek,"The Cereal City",USA
+Bayonne,"The Peninsula City",USA
+Beijing,"The Forbidden City",China
+Beirut,"The Paris of the Middle East",Lebanon
+Belem,"The City of Mango Trees",Brazil
+Belfast,"The Linenopolis",United Kingdom
+Belgrade,"The White City",Serbia
+Belize City,"The Old Capital",Belize
+Belo Horizonte,"The Garden City",Brazil
+Benghazi,"The Rebel City",Libya
+Bergen,"The City of Rain",Norway
+Berlin,"The Grey City",Germany
+Bern,"The City of Fountains",Switzerland
+Bethlehem,"The Christmas City",USA
+Bhopal,"The City of Lakes",India
+Bhubaneswar,"The Temple City of India",India
+Billings,"The Magic City",USA
+Biloxi,"The Playground of the South",USA
+Binghamton,"The Parlor City",USA
+Birmingham,"The Magic City",USA
+Birmingham,"The City of a Thousand Trades",United Kingdom
+Bishkek,"The Green City",Kyrgyzstan
+Bismarck,"The Star of the North",USA
+Bogota,"The Athens of South America",Colombia
+Boise,"The City of Trees",USA
+Bologna,"The Learned One",Italy
+Bordeaux,"The Pearl of Aquitaine",France
+Boston,"Beantown",USA
+Boulder,"The People's Republic of Boulder",USA
+Brasilia,"The Capital of Hope",Brazil
+Bratislava,"The Beauty on the Danube",Slovakia
+Brazzaville,"The Green City",Congo
+Bremen,"The City of Town Musicians",Germany
+Bridgeport,"The Park City",USA
+Bridgetown,"The City of Bridges",Barbados
+Brisbane,"The River City",Australia
+Bristol,"The Birthplace of America",USA
+Bristol,"The City of Bridges",United Kingdom
+Brno,"The Silicon Valley of Central Europe",Czech Republic
+Bruges,"The Venice of the North",Belgium
+Brussels,"The Capital of Europe",Belgium
+Bucharest,"The Little Paris",Romania
+Budapest,"The Pearl of the Danube",Hungary
+Buenos Aires,"The Paris of South America",Argentina
+Buffalo,"The City of Good Neighbors",USA
+Bujumbura,"The Heart of Africa",Burundi
+Bukavu,"The Green City",DR Congo
+Busan,"The Summer Capital of Korea",South Korea
+Butte,"The Richest Hill on Earth",USA
+Cadiz,"The Little Silver Cup",Spain
+Cagliari,"The City of the Sun",Italy
+Cairo,"The City of a Thousand Minarets",Egypt
+Calgary,"Cowtown",Canada
+Cali,"The Salsa Capital of the World",Colombia
+Cambridge,"The City of Squares",USA
+Camden,"The Classic City",USA
+Canberra,"The Bush Capital",Australia
+Cannes,"The City of Festivals",France
+Canton,"The Hall of Fame City",USA
+Cape Town,"The Mother City",South Africa
+Caracas,"The City of Eternal Spring",Venezuela
+Cardiff,"The City of Arcades",United Kingdom
+Carson City,"The Smallest Capital",USA
+Casablanca,"The White House",Morocco
+Casper,"The Oil City",USA
+Cebu City,"The Queen City of the South",Philippines
+Cedar Rapids,"The City of Five Seasons",USA
+Chandigarh,"The City Beautiful",India
+Charleston,"The Holy City",USA
+Charlotte,"The Queen City",USA
+Chattanooga,"The Scenic City",USA
+Chennai,"The Detroit of Asia",India
+Cheyenne,"The Magic City of the Plains",USA
+Chicago,"The Windy City",USA
+Chisinau,"The City of White Stone",Moldova
+Christchurch,"The Garden City",New Zealand
+Cincinnati,"The Queen City",USA
+Cleveland,"The Rock and Roll Capital of the World",USA
+Coimbatore,"The Manchester of South India",India
+Cologne,"The Cathedral City",Germany
+Colombo,"The Garden City of the East",Sri Lanka
+Colorado Springs,"The Springs",USA
+Columbia,"The Capital of Southern Hospitality",USA
+Columbus,"The Arch City",USA
+Conakry,"The Paris of Africa",Guinea
+Concord,"The City in a Park",USA
+Copenhagen,"The City of Spires",Denmark
+Cordoba,"The City of the Caliphs",Spain
+Cork,"The Rebel City",Ireland
+Corpus Christi,"The Sparkling City by the Sea",USA
+Cotonou,"The Venice of Africa",Benin
+Coventry,"The City of Three Spires",United Kingdom
+Cusco,"The Imperial City",Peru
+Cuttack,"The Millennium City",India
+Daegu,"The Apple City",South Korea
+Dakar,"The Paris of West Africa",Senegal
+Dallas,"The Big D",USA
+Damascus,"The City of Jasmine",Syria
+Dar es Salaam,"The Haven of Peace",Tanzania
+Darwin,"The Gateway to Asia",Australia
+Davao City,"The Durian Capital of the Philippines",Philippines
+Dayton,"The Gem City",USA
+Daytona Beach,"The World's Most Famous Beach",USA
+Delhi,"The City of Rallies",India
+Denver,"The Mile-High City",USA
+Des Moines,"The Hartford of the West",USA
+Detroit,"Motor City",USA
+Dhaka,"The City of Mosques",Bangladesh
+Dijon,"The City of Dukes",France
+Dili,"The City of Peace",Timor-Leste
+Djibouti,"The Pearl of the Gulf of Tadjoura",Djibouti
+Doha,"The Shining Pearl",Qatar
+Donetsk,"The City of a Million Roses",Ukraine
+Dortmund,"The Green Metropolis",Germany
+Douala,"The Axillary City",Cameroon
+Dover,"The Key of England",United Kingdom
+Dresden,"Florence on the Elbe",Germany
+Dubai,"The City of Gold",United Arab Emirates
+Dublin,"The Fair City",Ireland
+Dubrovnik,"The Pearl of the Adriatic",Croatia
+Duluth,"The Air-Conditioned City",USA
+Dunedin,"The Edinburgh of the South",New Zealand
+Durban,"The Surf City",South Africa
+Durham,"The Bull City",USA
+Dushanbe,"The City of Monday",Tajikistan
+Dusseldorf,"The Desk of the Ruhr",Germany
+East London,"The Buffalo City",South Africa
+Edinburgh,"The Athens of the North",United Kingdom
+Edmonton,"The City of Champions",Canada
+El Paso,"The Sun City",USA
+Elko,"The Heart of Northeast Nevada",USA
+Enugu,"The Coal City",Nigeria
+Erie,"The Gem City",USA
+Esfahan,"The City of Turquoise Domes",Iran
+Eugene,"The Emerald City",USA
+Evanston,"The City of Churches",USA
+Evansville,"The River City",USA
+Fairbanks,"The Golden Heart City",USA
+Fargo,"The Gateway to the West",USA
+Fayetteville,"The City of Dogwoods",USA
+Fes,"The Athens of Africa",Morocco
+Flagstaff,"The City of Seven Wonders",USA
+Flint,"The Vehicle City",USA
+Florence,"The City of Lilies",Italy
+Fort Collins,"The Choice City",USA
+Fort Lauderdale,"The Venice of America",USA
+Fort Wayne,"The Summit City",USA
+Fort Worth,"Cowtown",USA
+Frankfort,"The City of Churches",USA
+Frankfurt,"Mainhattan",Germany
+Freetown,"The Athens of West Africa",Sierra Leone
+Freiburg,"The Jewel of the Black Forest",Germany
+Fremantle,"Freo",Australia
+Fresno,"The Raisin Capital of the World",USA
+Fukuoka,"The Gateway to Asia",Japan
+Gaborone,"The City of Change",Botswana
+Gainesville,"The Gator Nation",USA
+Galway,"The City of the Tribes",Ireland
+Gdansk,"The Pearl of the Baltic",Poland
+Geneva,"The Peace Capital",Switzerland
+Genoa,"The Superb City",Italy
+George Town,"The Pearl of the Orient",Malaysia
+Georgetown,"The Garden City of the Caribbean",Guyana
+Ghent,"The City of Flowers",Belgium
+Gibraltar,"The Rock",Gibraltar
+Gisborne,"The City of Rivers",New Zealand
+Giza,"The City of the Pyramids",Egypt
+Glasgow,"The Dear Green Place",United Kingdom
+Glendale,"The Jewel City",USA
+Gold Coast,"The Glitter Strip",Australia
+Gothenburg,"Little London",Sweden
+Granada,"The Moorish City",Spain
+Grand Rapids,"Furniture City",USA
+Graz,"The City of Students",Austria
+Great Falls,"The Electric City",USA
+Green Bay,"Titletown, USA",USA
+Greensboro,"The Gate City",USA
+Greenville,"The Textile Capital of the World",USA
+Guadalajara,"The Pearl of the West",Mexico
+Guangzhou,"The City of Rams",China
+Guatemala City,"The City of Eternal Spring",Guatemala
+Guayaquil,"The Pearl of the Pacific",Ecuador
+Haifa,"The Bride of the Sea",Israel
+Halifax,"The City of Trees",Canada
+Hamburg,"The Gateway to the World",Germany
+Hamilton,"The Steel City",Canada
+Hanoi,"The Paris of the East",Vietnam
+Harare,"The Sunshine City",Zimbabwe
+Harrisburg,"The Capital of the Keystone State",USA
+Hartford,"The Insurance Capital of the World",USA
+Hattiesburg,"The Hub City",USA
+Havana,"The City of Columns",Cuba
+Hebron,"The City of the Patriarchs",Palestine
+Heidelberg,"The City of Romanticism",Germany
+Helena,"The Queen City of the Rockies",USA
+Helsinki,"The White City of the North",Finland
+Herat,"The Pearl of Khorasan",Afghanistan
+Hiroshima,"The City of Peace",Japan
+Ho Chi Minh City,"Saigon",Vietnam
+Hobart,"The Apple Isle",Australia
+Hollywood,"Tinseltown",USA
+Hong Kong,"The Pearl of the Orient",China
+Honolulu,"The Big Pineapple",USA
+Houston,"Space City",USA
+Huntington,"The Jewel of the Mountains",USA
+Huntsville,"The Rocket City",USA
+Hyderabad,"The City of Pearls",India
+Hyderabad,"The City of Nawabs",Pakistan
+Ibadan,"The City of Brown Roofs",Nigeria
+Ibiza,"The White Isle",Spain
+Indianapolis,"The Crossroads of America",USA
+Innsbruck,"The Capital of the Alps",Austria
+Invercargill,"The City of Water and Light",New Zealand
+Iqaluit,"The Place of Many Fish",Canada
+Iquitos,"The Capital of the Peruvian Amazon",Peru
+Irvine,"The Center of Orange County",USA
+Islamabad,"The Green City",Pakistan
+Istanbul,"The City on Seven Hills",Turkey
+Jackson,"The City with Soul",USA
+Jacksonville,"The River City",USA
+Jaipur,"The Pink City",India
+Jakarta,"The Big Durian",Indonesia
+Jeddah,"The Bride of the Red Sea",Saudi Arabia
+Jefferson City,"Jeff City",USA
+Jersey City,"Wall Street West",USA
+Jerusalem,"The Holy City",Israel
+Johannesburg,"The City of Gold",South Africa
+Jodhpur,"The Blue City",India
+Joliet,"The City of Steel and Stone",USA
+Juneau,"America's Coolest Capital",USA
+Kabul,"The City of Gardens",Afghanistan
+Kaduna,"The Crocodile City",Nigeria
+Kampala,"The City of Seven Hills",Uganda
+Kandahar,"The City of Alexander",Afghanistan
+Kandy,"The Hill Capital",Sri Lanka
+Kano,"The Center of Commerce",Nigeria
+Kansas City,"The City of Fountains",USA
+Karachi,"The City of Lights",Pakistan
+Kathmandu,"The City of Temples",Nepal
+Kaunas,"The Heart of Lithuania",Lithuania
+Kharkiv,"The City of Students",Ukraine
+Khartoum,"The Triangular Capital",Sudan
+Kiel,"The Sailing City",Germany
+Kiev (Kyiv),"The Mother of Rus' Cities",Ukraine
+Kigali,"The Land of a Thousand Hills",Rwanda
+Kimberley,"The Diamond City",South Africa
+Kingston,"The Limestone City",Canada
+Kingston,"The Heartbeat of Jamaica",Jamaica
+Kingstown,"The City of Arches",Saint Vincent and the Grenadines
+Kinshasa,"The City of Music",DR Congo
+Klagenfurt,"The Rose of the Wörthersee",Austria
+Knoxville,"The Marble City",USA
+Kobe,"The City of Fashion",Japan
+Kolkata,"The City of Joy",India
+Krakow,"The City of Kings",Poland
+Kuala Lumpur,"The Garden City of Lights",Malaysia
+Kumasi,"The Garden City of West Africa",Ghana
+Kuwait City,"The Jewel of the Gulf",Kuwait
+Kyoto,"The City of Ten Thousand Shrines",Japan
+La Paz,"The City That Touches the Sky",Bolivia
+La Serena,"The City of Churches",Chile
+Lagos,"Eko",Nigeria
+Lahore,"The City of Gardens",Pakistan
+Lansing,"The Middle of the Mitten",USA
+Laredo,"The Gateway City",USA
+Las Cruces,"The City of the Crosses",USA
+Las Vegas,"Sin City",USA
+Launceston,"The Northern Capital",Australia
+Lausanne,"The Olympic Capital",Switzerland
+Lawrence,"The Maple Leaf City",USA
+Leeds,"The Capital of the North",United Kingdom
+Leipzig,"The City of Heroes",Germany
+Lethbridge,"The Windy City",Canada
+Lexington,"The Horse Capital of the World",USA
+Libreville,"The City of Mangroves",Gabon
+Liege,"The Ardent City",Belgium
+Lille,"The Capital of Flanders",France
+Lilongwe,"The Garden City",Malawi
+Lima,"The City of Kings",Peru
+Limassol,"The City of Wine",Cyprus
+Limerick,"The Treaty City",Ireland
+Lincoln,"The Star City",USA
+Linz,"The Steel City",Austria
+Lisbon,"The City of Seven Hills",Portugal
+Little Rock,"The Rock",USA
+Liverpool,"The Pool of Life",United Kingdom
+Ljubljana,"The Beloved City",Slovenia
+Lodz,"The Polish Manchester",Poland
+Lome,"The Pearl of Togo",Togo
+London,"The Big Smoke",United Kingdom
+Long Beach,"The International City",USA
+Los Angeles,"The City of Angels",USA
+Louisville,"The Derby City",USA
+Lourdes,"The City of Miracles",France
+Lowell,"The Mill City",USA
+Luanda,"The Paris of Africa",Angola
+Lubbock,"The Hub City",USA
+Lucknow,"The City of Nawabs",India
+Ludhiana,"The Manchester of India",India
+Lugano,"The Monte Carlo of Switzerland",Switzerland
+Lund,"The City of Ideas",Sweden
+Lusaka,"The Garden City",Zambia
+Luxembourg,"The Gibraltar of the North",Luxembourg
+Lviv,"The City of Lions",Ukraine
+Lyon,"The Capital of Lights",France
+Macau,"The Vegas of China",China
+Maceio,"The Water Paradise",Brazil
+Macon,"The Heart of Georgia",USA
+Madison,"The City of Four Lakes",USA
+Madrid,"El Foro",Spain
+Madurai,"The City of Temples",India
+Mainz,"The Golden City",Germany
+Malabo,"The Pearl of the Gulf of Guinea",Equatorial Guinea
+Malaga,"The City of Paradise",Spain
+Male,"The Sun-Kissed Capital",Maldives
+Malmo,"The City of Parks",Sweden
+Managua,"The Bride of Xolotlán",Nicaragua
+Manama,"The Pearl of the Gulf",Bahrain
+Manaus,"The Paris of the Tropics",Brazil
+Manchester,"The Rainy City",United Kingdom
+Mangalore,"The Rome of the East",India
+Manila,"The Pearl of the Orient Seas",Philippines
+Maputo,"The City of Acacias",Mozambique
+Maracaibo,"The Beloved Land of the Sun",Venezuela
+Maracay,"The Garden City of Venezuela",Venezuela
+Marrakech,"The Red City",Morocco
+Marseille,"The Phocaean City",France
+Mas-eru,"The Place of Red Sandstones",Lesotho
+Mataram,"The City of a Thousand Mosques",Indonesia
+Mbabane,"The Place of the King's Cattle",Eswatini
+Mecca,"The Holy City",Saudi Arabia
+Medan,"The City of Merchants",Indonesia
+Medellin,"The City of Eternal Spring",Colombia
+Medina,"The Radiant City",Saudi Arabia
+Melbourne,"The Garden City",Australia
+Memphis,"Home of the Blues",USA
+Merida,"The White City",Mexico
+Mesa,"The City of the Sun",USA
+Messina,"The Door of Sicily",Italy
+Mexico City,"The City of Palaces",Mexico
+Miami,"The Magic City",USA
+Milan,"The Fashion Capital",Italy
+Milwaukee,"The Cream City",USA
+Minneapolis,"The Mill City",USA
+Minsk,"The City of the Sun",Belarus
+Mogadishu,"The White Pearl of the Indian Ocean",Somalia
+Mombasa,"The White and Blue City",Kenya
+Monaco,"The Rock",Monaco
+Moncton,"The Hub City",Canada
+Monrovia,"The Christopolis",Liberia
+Monte Carlo,"The Billionaires' Playground",Monaco
+Montego Bay,"MoBay",Jamaica
+Monterrey,"The City of Mountains",Mexico
+Montevideo,"The Athens of the Plate",Uruguay
+Montgomery,"The Capital of Dreams",USA
+Montpelier,"The Green Mountain City",USA
+Montreal,"The City of a Hundred Steeples",Canada
+Montreux,"The Pearl of the Swiss Riviera",Switzerland
+Moroni,"The City of Spices",Comoros
+Moscow,"The Third Rome",Russia
+Mostar,"The City on the Neretva",Bosnia and Herzegovina
+Multan,"The City of Saints",Pakistan
+Mumbai,"The City of Dreams",India
+Munich,"The City with a Heart",Germany
+Murmansk,"The Capital of the Arctic",Russia
+Muscat,"The Jewel of Arabia",Oman
+Myrtle Beach,"The Grand Strand",USA
+Mysore,"The City of Palaces",India
+N'Djamena,"The City of the Sahel",Chad
+Nagoya,"The Middle Capital",Japan
+Nagpur,"The Orange City",India
+Naha,"The City of Shuri Castle",Japan
+Nairobi,"The Green City in the Sun",Kenya
+Nanjing,"The Southern Capital",China
+Nantes,"The Venice of the West",France
+Napier,"The Art Deco Capital",New Zealand
+Naples,"The City of the Sun",Italy
+Nashville,"Music City",USA
+Nassau,"The Isle of June",Bahamas
+Natal,"The City of the Sun",Brazil
+Nelson,"Sunny Nelson",New Zealand
+New Delhi,"The City of Djinns",India
+New Haven,"The Elm City",USA
+New Orleans,"The Big Easy",USA
+New Plymouth,"The Garden of New Zealand",New Zealand
+New York City,"The Big Apple",USA
+Newark,"The Brick City",USA
+Newcastle upon Tyne,"The Toon",United Kingdom
+Niagara Falls,"The Honeymoon Capital of the World",Canada
+Nicosia,"The Last Divided Capital",Cyprus
+Niigata,"The City of Water",Japan
+Nis,"The Emperor's City",Serbia
+Nizhny Novgorod,"The Pocket of Russia",Russia
+Nome,"The City of the Golden Beaches",USA
+Norfolk,"The Mermaid City",USA
+Nouakchott,"The Place of the Winds",Mauritania
+Noumea,"The Paris of the Pacific",New Caledonia
+Novosibirsk,"The Capital of Siberia",Russia
+Nukualofa,"The Abode of Love",Tonga
+Nuuk,"The Tip of the Peninsula",Greenland
+Oaxaca,"The Jade City",Mexico
+Oakland,"The Town",USA
+Odessa,"The Pearl of the Black Sea",Ukraine
+Ogden,"The Junction City",USA
+Okayama,"The Land of Sunshine",Japan
+Oklahoma City,"The Big Friendly",USA
+Olympia,"Oly",USA
+Omaha,"The Gateway to the West",USA
+Oran,"The Radiant City",Algeria
+Orlando,"The City Beautiful",USA
+Osaka,"The Kitchen of Japan",Japan
+Oslo,"The Tiger City",Norway
+Ottawa,"Bytown",Canada
+Ouagadougou,"The Land of Honest Men",Burkina Faso
+Oulu,"The Capital of Northern Scandinavia",Finland
+Overland Park,"The City of Trees",USA
+Oxford,"The City of Dreaming Spires",United Kingdom
+Padua,"The City of the Saint",Italy
+Pago Pago,"The Heart of Polynesia",American Samoa
+Palermo,"The Happy City",Italy
+Palm Springs,"The Golf Capital of the World",USA
+Palma,"The Pearl of the Mediterranean",Spain
+Palo Alto,"The Birthplace of Silicon Valley",USA
+Panama City,"The Crossroads of the Americas",Panama
+Papeete,"The Pearl of the Pacific",French Polynesia
+Paramaribo,"The Wooden City",Suriname
+Paris,"The City of Light",France
+Parma,"The Food Valley",Italy
+Pasadena,"The City of Roses",USA
+Paterson,"The Silk City",USA
+Patna,"The City of Scholars",India
+Pattaya,"The Sin City of the East",Thailand
+Penang,"The Pearl of the Orient",Malaysia
+Pensacola,"The City of Five Flags",USA
+Peoria,"The River City",USA
+Perth,"The City of Light",Australia
+Peshawar,"The City of Flowers",Pakistan
+Peterborough,"The Electric City",Canada
+Petra,"The Rose City",Jordan
+Philadelphia,"The City of Brotherly Love",USA
+Phnom Penh,"The Pearl of Asia",Cambodia
+Phoenix,"The Valley of the Sun",USA
+Pierre,"The Capital City",USA
+Pisa,"The City of the Leaning Tower",Italy
+Pittsburgh,"The Steel City",USA
+Plano,"The Hot Air Balloon Capital of Texas",USA
+Plymouth,"The Ocean City",United Kingdom
+Podgorica,"The Green City",Montenegro
+Pointe-Noire,"The Economic Capital",Congo
+Ponce,"The Pearl of the South",Puerto Rico
+Port-au-Prince,"The City of the Sun",Haiti
+Port Elizabeth,"The Friendly City",South Africa
+Port Louis,"The City of the Sun",Mauritius
+Port Moresby,"The Gateway to the Pacific",Papua New Guinea
+Port of Spain,"The City of the Hummingbird",Trinidad and Tobago
+Port Vila,"The Gateway to Vanuatu",Vanuatu
+Porto,"The Invincible City",Portugal
+Porto-Novo,"The City of Three Names",Benin
+Portland,"The City of Roses",USA
+Portsmouth,"Pompey",United Kingdom
+Potsdam,"The City of Palaces",Germany
+Poznan,"The City of Fairs",Poland
+Prague,"The City of a Hundred Spires",Czech Republic
+Praia,"The Capital of the Atlantic",Cape Verde
+Pretoria,"The Jacaranda City",South Africa
+Pristina,"The City of Cafes",Kosovo
+Providence,"The Creative Capital",USA
+Provo,"The Happy Valley",USA
+Puebla,"The City of Angels",Mexico
+Pune,"The Queen of the Deccan",India
+Punta Arenas,"The City of Red Roofs",Chile
+Pyongyang,"The Capital of the Revolution",North Korea
+Quebec City,"The Old Capital",Canada
+Queenstown,"The Adventure Capital of the World",New Zealand
+Quito,"The Light of America",Ecuador
+Rabat,"The Royal City",Morocco
+Raipur,"The Rice Bowl of India",India
+Raleigh,"The City of Oaks",USA
+Ranchi,"The City of Waterfalls",India
+Rangoon (Yangon),"The Garden City of the East",Myanmar
+Rapid City,"The Gateway to the Black Hills",USA
+Ras Al Khaimah,"The Rising Emirate",United Arab Emirates
+Rawalpindi,"The Pindi",Pakistan
+Recife,"The Brazilian Venice",Brazil
+Regina,"The Queen City",Canada
+Reno,"The Biggest Little City in the World",USA
+Reykjavik,"The Smoking Bay",Iceland
+Richmond,"The River City",USA
+Riga,"The Paris of the North",Latvia
+Rijeka,"The City that Flows",Croatia
+Rio de Janeiro,"The Marvelous City",Brazil
+Riyadh,"The Gardens of the Desert",Saudi Arabia
+Roanoke,"The Star City of the South",USA
+Rochester,"The Flower City",USA
+Rockford,"The Forest City",USA
+Rome,"The Eternal City",Italy
+Roseau,"The Nature Isle Capital",Dominica
+Roswell,"The Alien Capital of the World",USA
+Rotterdam,"The Gateway to Europe",Netherlands
+Rouen,"The City of a Hundred Spires",France
+Saarbrücken,"The University City",Germany
+Sacramento,"The River City",USA
+Sagan,"The City of Paper",Japan
+Saginaw,"The Sawmill City",USA
+Saint-Etienne,"The City of Arms",France
+Saint John,"The Loyalist City",Canada
+Saint Paul,"The Saintly City",USA
+Saint Petersburg,"The Sunshine City",USA
+Salem,"The Cherry City",USA
+Salisbury,"The Cathedral City",United Kingdom
+Salt Lake City,"The Crossroads of the West",USA
+Salvador,"The Capital of Joy",Brazil
+Salzburg,"The City of Mozart",Austria
+Samarkand,"The Crossroads of Culture",Uzbekistan
+San Antonio,"The Alamo City",USA
+San Cristobal,"The City of Cordiality",Venezuela
+San Diego,"America's Finest City",USA
+San Francisco,"The City by the Bay",USA
+San Jose,"The Capital of Silicon Valley",USA
+San Juan,"The Walled City",Puerto Rico
+San Marino,"The Most Serene Republic",San Marino
+San Salvador,"The Valley of the Hammocks",El Salvador
+Sana'a,"The Stone City",Yemen
+Santa Barbara,"The American Riviera",USA
+Santa Cruz,"Surf City",USA
+Santa Fe,"The City Different",USA
+Santa Monica,"The Bay City",USA
+Santiago,"The City of the Island Hills",Chile
+Santiago de Compostela,"The City of the Apostle",Spain
+Santo Domingo,"The Gateway to the Caribbean",Dominican Republic
+Sao Paulo,"The Land of Drizzle",Brazil
+Sao Tome,"The Chocolate Island Capital",Sao Tome and Principe
+Sapporo,"The City of Ramen",Japan
+Sarajevo,"The Jerusalem of Europe",Bosnia and Herzegovina
+Sarasota,"The Circus City",USA
+Saskatoon,"The Paris of the Prairies",Canada
+Savannah,"The Hostess City of the South",USA
+Scottsdale,"The West's Most Western Town",USA
+Scranton,"The Electric City",USA
+Seattle,"The Emerald City",USA
+Semarang,"The Port of Java",Indonesia
+Sendai,"The City of Trees",Japan
+Seoul,"The Miracle on the Han River",South Korea
+Seville,"The Pearl of Andalusia",Spain
+Shanghai,"The Paris of the East",China
+Sharjah,"The Cultural Capital of the UAE",United Arab Emirates
+Sheffield,"The Steel City",United Kingdom
+Shenzhen,"The City of Miracles",China
+Shreveport,"The Port City",USA
+Siem Reap,"The Gateway to Angkor Wat",Cambodia
+Siena,"The City of the Palio",Italy
+Singapore,"The Lion City",Singapore
+Sioux Falls,"The Queen City of the West",USA
+Skopje,"The City of Statues",North Macedonia
+Sofia,"The City of Wisdom",Bulgaria
+South Bend,"The Bend",USA
+Southampton,"The Cruise Capital of Europe",United Kingdom
+Spokane,"The Lilac City",USA
+Springfield,"The City of Firsts",USA
+St. Catharines,"The Garden City",Canada
+St. George's,"The Spice Isle Capital",Grenada
+St. John's,"The City of Legends",Canada
+St. John's,"The Capital of the Leeward Islands",Antigua and Barbuda
+St. Louis,"The Gateway to the West",USA
+St. Petersburg,"The Venice of the North",Russia
+Stamford,"The City That Works",USA
+Stanley,"The Capital of the Falklands",Falkland Islands
+Stavanger,"The Oil Capital of Norway",Norway
+Sterling Heights,"The Heart of Macomb County",USA
+Stockholm,"The Capital of Scandinavia",Sweden
+Stoke-on-Trent,"The Potteries",United Kingdom
+Strasbourg,"The Crossroads of Europe",France
+Stuttgart,"The Cradle of the Automobile",Germany
+Sucre,"The White City of the Americas",Bolivia
+Sudbury,"The Nickel City",Canada
+Suez,"The Gateway to the East",Egypt
+Sunderland,"The Mackem City",United Kingdom
+Surabaya,"The City of Heroes",Indonesia
+Surat,"The Diamond City of India",India
+Suva,"The Hub of the Pacific",Fiji
+Swansea,"The Copperopolis",United Kingdom
+Sydney,"The Harbour City",Australia
+Syracuse,"The Salt City",USA
+Szczecin,"The Floating Garden",Poland
+Tabriz,"The City of the Firsts",Iran
+Tacoma,"The City of Destiny",USA
+Taipei,"The City of Azaleas",Taiwan
+Tallahassee,"The Capital City",USA
+Tallinn,"The Medieval Pearl",Estonia
+Tampa,"The Big Guava",USA
+Tampere,"The Manchester of Finland",Finland
+Tananarive (Antananarivo),"The City of a Thousand",Madagascar
+Tangier,"The Bride of the North",Morocco
+Tashkent,"The Stone City",Uzbekistan
+Tbilisi,"The City of Light",Georgia
+Tegucigalpa,"The City of Silver Hills",Honduras
+Tehran,"The City of 72 Nations",Iran
+Tel Aviv,"The White City",Israel
+Tempe,"The City of the Sun",USA
+Teresina,"The Green City",Brazil
+The Hague,"The Royal City by the Sea",Netherlands
+Thessaloniki,"The Nymph of the Thermaic",Greece
+Thimphu,"The City of Peace",Bhutan
+Thunder Bay,"The Lakehead",Canada
+Tianjin,"The Diamond of the Bohai Gulf",China
+Tijuana,"The Gateway to Mexico",Mexico
+Timbuktu,"The Mysterious City",Mali
+Tirana,"The City of Colors",Albania
+Toledo,"The Glass City",USA
+Toledo,"The Imperial City",Spain
+Topeka,"The Golden City",USA
+Toronto,"The 6ix",Canada
+Torun,"The City of Copernicus",Poland
+Toulouse,"The Pink City",France
+Tours,"The Garden of France",France
+Trenton,"The Capital City",USA
+Trieste,"The City of Wind",Italy
+Tripoli,"The Mermaid of the Mediterranean",Libya
+Tromso,"The Paris of the North",Norway
+Trondheim,"The Viking City",Norway
+Tucson,"The Old Pueblo",USA
+Tulsa,"The Oil Capital of the World",USA
+Tunis,"The Green",Tunisia
+Turin,"The Capital of the Alps",Italy
+Ubud,"The Cultural Heart of Bali",Indonesia
+Udaipur,"The City of Lakes",India
+Ufa,"The City of Three Screws",Russia
+Ulaanbaatar,"The Red Hero",Mongolia
+Ulsan,"The Industrial Capital of South Korea",South Korea
+Ushuaia,"The End of the World",Argentina
+Utrecht,"The Cathedral City",Netherlands
+Vadodara,"The Cultural Capital of Gujarat",India
+Vaduz,"The Little Town",Liechtenstein
+Valencia,"The City of Arts and Sciences",Spain
+Valletta,"The Fortress City",Malta
+Valparaiso,"The Jewel of the Pacific",Chile
+Vancouver,"Hollywood North",Canada
+Varanasi,"The Spiritual Capital of India",India
+Vatican City,"The Holy See",Vatican City
+Venice,"The Floating City",Italy
+Verona,"The City of Love",Italy
+Victoria,"The Garden City",Canada
+Vienna,"The City of Dreams",Austria
+Vientiane,"The City of the Full Moon",Laos
+Vilnius,"The Jerusalem of the North",Lithuania
+Virginia Beach,"The Resort City",USA
+Visakhapatnam,"The City of Destiny",India
+Vitoria-Gasteiz,"The Green Capital",Spain
+Vladivostok,"The Ruler of the East",Russia
+Volgograd,"The Hero City",Russia
+Waco,"The Heart of Texas",USA
+Warsaw,"The Phoenix City",Poland
+Washington D.C.,"The District",USA
+Waterbury,"The Brass City",USA
+Waterford,"The Crystal City",Ireland
+Waterloo,"The Loo",Canada
+Wellington,"The Coolest Little Capital",New Zealand
+Whitehorse,"The Wilderness City",Canada
+Wichita,"The Air Capital of the World",USA
+Wiesbaden,"The Nice of the North",Germany
+Wilkes-Barre,"The Diamond City",USA
+Wilmington,"The Chemical Capital of the World",USA
+Windhoek,"The City of Many Faces",Namibia
+Windsor,"The Rose City",Canada
+Winnipeg,"The Gateway to the West",Canada
+Winston-Salem,"The Twin City",USA
+Winterthur,"The City of Gardens",Switzerland
+Wollongong,"The Gong",Australia
+Wolverhampton,"Wolvo",United Kingdom
+Worcester,"The Heart of the Commonwealth",USA
+Wroclaw,"The Meeting Place",Poland
+Wuhan,"The Chicago of China",China
+Xian,"The Eternal City",China
+Yakutsk,"The Coldest City on Earth",Russia
+Yaounde,"The City of Seven Hills",Cameroon
+Yekaterinburg,"The Capital of the Urals",Russia
+Yellowknife,"The Diamond Capital of North America",Canada
+Yerevan,"The Pink City",Armenia
+Yokohama,"The City of Ham",Japan
+Yonkers,"The City of Seven Hills",USA
+York,"The Eternal City",United Kingdom
+Youngstown,"The Steel Valley",USA
+Zagreb,"The City of Museums",Croatia
+Zanzibar City,"The Spice City",Tanzania
+Zaragoza,"The City of the Wind",Spain
+Zurich,"Little Big City",Switzerland
