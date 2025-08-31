@@ -50,6 +50,7 @@ scipy==1.16.1
 sentence-transformers==5.1.0
 setuptools==80.9.0
 six==1.17.0
+sqlite-vec==0.1.6
 sympy==1.14.0
 threadpoolctl==3.6.0
 tokenizers==0.21.4

@@ -10,7 +10,7 @@ EMBEDDING_MODEL_NAME ?= your-embedding-model
 green := \033[36m
 white := \033[0m
 
-.PHONY: help push check-env
+.PHONY: help push create-db check-env test-db
 
 default: help
 
@@ -41,3 +41,17 @@ push: check-env ## Push the dataset to the Huggingface Hub.
 	@echo "--> Running Hugging Face client to push the dataset..."
 	@./hugging-cli.py push
 	@echo "--> Operation complete."
+
+create-db: ## Create sqlite-vec-db from the dataset.
+	@echo "--> Ensuring Python script is executable..."
+	@chmod +x ./hugging-cli.py
+	@echo "--> Running Hugging Face client to create the database..."
+	@./hugging-cli.py create-db
+	@echo "--> Operation complete."
+
+test-db: ## Test the embedding db.
+	@echo "--> Ensuring Python script is executable..."
+	@chmod +x ./tests/test_query_embedding.py
+	@echo "--> Running tests..."
+	@./tests/test_query_embedding.py
+	@echo "--> Tests complete."
