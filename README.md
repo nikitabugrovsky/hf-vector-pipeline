@@ -1,5 +1,8 @@
 # `hf-vector-pipeline`
 
+[![Push to Hugging Face Hub](https://github.com/nikitabugrovsky/hf-vector-pipeline/actions/workflows/huggingface-push.yml/badge.svg)](https://github.com/nikitabugrovsky/hf-vector-pipeline/actions/workflows/huggingface-push.yml)
+[![Create DB Release](https://github.com/nikitabugrovsky/hf-vector-pipeline/actions/workflows/create-release.yml/badge.svg)](https://github.com/nikitabugrovsky/hf-vector-pipeline/actions/workflows/create-release.yml)
+
 ## Overview
 
 This repository contains a data pipeline for building, managing, and utilizing Hugging Face datasets with vector embeddings. It provides an automated workflow to generate and push datasets to the Hugging Face Hub.
