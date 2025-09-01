@@ -4,3 +4,7 @@ city-nicknames-vec.db
 *.egg-info
 build
 dist
+.pytest_cache
+__pycache__
+*.pyc
+tests/__pycache__/*
