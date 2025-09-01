@@ -1,4 +1,7 @@
 # Makefile for the Hugging Face CLI tool
+PYTHON = python
+SCRIPT = hugging-cli.py
+DB_TEST_SCRIPT = tests/test_query_embedding.py
 
 SOURCE_DATA_FILE ?= your-data.csv
 TARGET_DATASET_REPO ?= your-username/your-repo
@@ -10,7 +13,7 @@ EMBEDDING_MODEL_NAME ?= your-embedding-model
 green := \033[36m
 white := \033[0m
 
-.PHONY: help push create-db check-env test-db
+.PHONY: help push create-db check-env test-db install
 
 default: help
 
@@ -35,23 +38,35 @@ check-env:
 		exit 1; \
 	fi
 
-push: check-env ## Push the dataset to the Huggingface Hub.
-	@echo "--> Ensuring Python script is executable..."
-	@chmod +x ./hugging-cli.py
+push: install check-env ## Push the dataset to the Huggingface Hub.
 	@echo "--> Running Hugging Face client to push the dataset..."
-	@./hugging-cli.py push
+	@uv run -- $(PYTHON) $(SCRIPT) push
 	@echo "--> Operation complete."
 
-create-db: ## Create sqlite-vec-db from the dataset.
-	@echo "--> Ensuring Python script is executable..."
-	@chmod +x ./hugging-cli.py
+create-db: install ## Create sqlite-vec-db from the dataset.
 	@echo "--> Running Hugging Face client to create the database..."
-	@./hugging-cli.py create-db
+	@uv run -- $(PYTHON) $(SCRIPT) create-db
 	@echo "--> Operation complete."
 
-test-db: ## Test the embedding db.
+test-db: install ## Test the embedding db.
 	@echo "--> Ensuring Python script is executable..."
-	@chmod +x ./tests/test_query_embedding.py
-	@echo "--> Running tests..."
-	@./tests/test_query_embedding.py
+	@uv run -- $(PYTHON) $(DB_TEST_SCRIPT)
 	@echo "--> Tests complete."
+
+install:
+	uv pip install .[dev]
+
+test:
+	uv run -- pytest tests/
+
+run:
+	uv run -- $(PYTHON) $(SCRIPT) $(ARGS)
+
+lint:
+	uv run -- black . --check
+
+format:
+	uv run -- black .
+
+clean:
+	rm -rf .venv .uv-cache hf_vector_pipeline.egg-info build

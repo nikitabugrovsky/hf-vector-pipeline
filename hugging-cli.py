@@ -110,9 +110,9 @@ class HuggingFaceClient:
 
     def create_vec_db(self):
         """
-        Creates a SQLite database with vector search capabilities (sqlite-vss).
+        Creates a SQLite database with vector search capabilities (sqlite-vec).
         """
-        print(f"Creating SQLite VSS database at '{self.db_file}'...")
+        print(f"Creating SQLite vector database at '{self.db_file}'...")
         try:
             with sqlite3.connect(self.db_file) as con:
                 con.enable_load_extension(True)

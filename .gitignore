@@ -1,3 +1,6 @@
 .venv
 .goose
 city-nicknames-vec.db
+*.egg-info
+build
+dist
