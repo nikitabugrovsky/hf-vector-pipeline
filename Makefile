@@ -61,7 +61,7 @@ install: venv
 	@uv pip install .[dev]
 
 venv:
-	@uv venv .venv && source .venv/bin/activate
+	@uv venv .venv && . .venv/bin/activate
 
 lint:
 	uv run -- black . --check
