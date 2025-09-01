@@ -51,8 +51,20 @@ jobs:
           SOURCE_DATA_FILE: ${{ vars.SOURCE_DATA_FILE }}
           TARGET_DATASET_REPO: ${{ vars.TARGET_DATASET_REPO }}
 
-      - name: Create embeddings DB
+      - name: Create Database for Release
         run: make create-db
+        env:
+          HF_TOKEN: ${{ secrets.HF_TOKEN }}
+          EMBEDDING_MODEL_NAME: ${{ vars.EMBEDDING_MODEL_NAME }}
+          SOURCE_DATA_FILE: ${{ vars.SOURCE_DATA_FILE }}
+          TARGET_DATASET_REPO: ${{ vars.TARGET_DATASET_REPO }}
 
       - name: Test embeddings DB
         run: make test-db
+
+      - name: Upload DB Artifact for Release
+        if: success()
+        uses: actions/upload-artifact@v4
+        with:
+          name: vector-database-for-release
+          path: city-nicknames-vec.db

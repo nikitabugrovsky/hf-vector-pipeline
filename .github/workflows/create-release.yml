@@ -1,0 +1,48 @@
+name: Create DB Release
+
+on:
+  workflow_run:
+    workflows: ["Push to Hugging Face Hub"]
+    types:
+      - completed
+
+jobs:
+  release-db:
+    runs-on: ubuntu-latest
+    if: ${{ github.event.workflow_run.conclusion == 'success' }}
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v5
+
+      - name: Download Vector DB Artifact
+        uses: actions/download-artifact@v5
+        with:
+          name: vector-database-for-release
+          run-id: ${{ github.event.workflow_run.id }}
+
+      - name: Set up Versioning
+        id: versioning
+        run: |
+          echo "VERSION_TAG=$(date +'%Y-%m-%d-%H-%M')" >> $GITHUB_OUTPUT
+
+      - name: Prepare Release Assets
+        id: assets
+        run: |
+
+          VERSIONED_FILENAME="city-nicknames-vec-${{ steps.versioning.outputs.VERSION_TAG }}.db"
+          mv city-nicknames-vec.db "$VERSIONED_FILENAME"
+          echo "ASSET_PATH=$VERSIONED_FILENAME" >> $GITHUB_OUTPUT
+
+      - name: Create GitHub Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: db-release-${{ steps.versioning.outputs.VERSION_TAG }}
+          name: "Database Release ${{ steps.versioning.outputs.VERSION_TAG }}"
+          body: |
+            Automated database release.
+            Triggered by commit: ${{ github.event.workflow_run.head_sha }}
+          files: ${{ steps.assets.outputs.ASSET_PATH }}
+          latest: true
