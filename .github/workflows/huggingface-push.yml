@@ -34,6 +34,9 @@ jobs:
           restore-keys: |
             ${{ runner.os }}-uv-
 
+      - name: Install uv
+        run: curl -LsSf https://astral.sh/uv/install.sh | sh
+
       - name: Install dependencies
         run: make install
 
