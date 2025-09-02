@@ -12,7 +12,7 @@ EMBEDDING_MODEL_NAME ?= your-embedding-model
 green := \033[36m
 white := \033[0m
 
-.PHONY: help push create-db check-env test-db install venv
+.PHONY: help push create-db check-env test-db install venv lint format clean
 
 default: help
 
@@ -57,17 +57,27 @@ test-cli: install ## Test hugging_cli.py.
 	@uv run pytest -v -s -rA tests/test_hugging_cli.py
 	@echo "--> Tests complete."
 
-install: venv
+install: venv ## Install the dependencies.
+	@echo "--> Installing dependencies..."
 	@uv pip install .[dev]
+	@echo "--> Installation complete."
+
+lint: ## Lint the project.
+	@echo "--> Running black & isort..."
+	@uv run black . --check
+	@uv run isort . --check
+	@echo "--> Linting complete."
+
+format: ## Format the project.
+	@echo "--> Running black & isort formatter..."
+	@uv run black .
+	@uv run isort .
+	@echo "--> Formatting complete."
+
+clean: ## Remove virtual environment and cache.
+	@echo "--> Cleaning the project..."
+	@rm -rf .venv .uv-cache hf_vector_pipeline.egg-info build __pycache__ tests/__pycache__
+	@echo "--> Cleaning complete."
 
 venv:
 	@uv venv .venv && . .venv/bin/activate
-
-lint:
-	uv run -- black . --check
-
-format:
-	uv run -- black .
-
-clean:
-	rm -rf .venv .uv-cache hf_vector_pipeline.egg-info build __pycache__ tests/__pycache__
