@@ -64,7 +64,7 @@ To run parts of the pipeline locally for development or testing.
 3.  **Run Pipeline Steps**:
     *   Push to Hugging Face Hub: `make push`
     *   Create the local database: `make create-db`
-    *   Run all tests: `make test`
+    *   Run all tests: `make test-cli && make test-db`
 
 ### Automated GitHub Workflow (Recommended)
 
@@ -93,6 +93,5 @@ The repository includes a test suite to ensure correctness.
 
 You can run all tests locally using the following command:
 ```bash
-make test-db
-make test-cli
+make test-db && make test-cli
 ```
